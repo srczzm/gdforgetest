@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: IconsAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 2
+      generateMipMaps: 1
+      readable: 1
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: f80ee521a3791e8448b429abd4cf122c, type: 3}
+    - {fileID: 2800000, guid: 0750b0ebed7ef4246832a0612d6746b1, type: 3}
+    - {fileID: 2800000, guid: 607192be03e15614188b46397d7d5589, type: 3}
+    - {fileID: 2800000, guid: e5fac4d206dd41c4eb6d1404b08e9d18, type: 3}
+    - {fileID: 2800000, guid: 5b6a22df01d16d2489edbf032a6e766c, type: 3}
+    - {fileID: 2800000, guid: 71ca16a66d29bdd46b0c6b3f353b2fdc, type: 3}
+    - {fileID: 2800000, guid: cb9ed10948b709848a5e939e019faa79, type: 3}
+    - {fileID: 2800000, guid: 974aa4e1baf8d6f43b5abf710454b0ad, type: 3}
+    totalSpriteSurfaceArea: 538307
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f80ee521a3791e8448b429abd4cf122c, type: 3}
+  - {fileID: 21300000, guid: 974aa4e1baf8d6f43b5abf710454b0ad, type: 3}
+  - {fileID: 21300000, guid: e5fac4d206dd41c4eb6d1404b08e9d18, type: 3}
+  - {fileID: 21300000, guid: 71ca16a66d29bdd46b0c6b3f353b2fdc, type: 3}
+  - {fileID: 21300000, guid: cb9ed10948b709848a5e939e019faa79, type: 3}
+  - {fileID: 21300000, guid: 0750b0ebed7ef4246832a0612d6746b1, type: 3}
+  - {fileID: 21300000, guid: 607192be03e15614188b46397d7d5589, type: 3}
+  - {fileID: 21300000, guid: 5b6a22df01d16d2489edbf032a6e766c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - option_icon
+  - icon_crystal
+  - btn_play_hover
+  - btn_sound_hover
+  - logo
+  - icon_close
+  - btn_play_click
+  - btn_sound_click
+  m_RenderDataMap: {}
+  m_Tag: IconsAtlas
+  m_IsVariant: 0
